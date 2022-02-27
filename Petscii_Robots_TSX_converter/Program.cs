@@ -18,7 +18,6 @@ namespace Petscii_Robots_TSX_converter
 
             Console.WriteLine("INSERT FILE PATH:");
             filePath = Console.ReadLine();
-
             if (userOption == 1)
             {
                 if (!filePath.EndsWith(".tmx"))
