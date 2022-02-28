@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Petscii_Robots_TSX_converter
+namespace Petscii_Robots_TMX_converter
 {
     class Program
     {
@@ -11,8 +11,8 @@ namespace Petscii_Robots_TSX_converter
             string filePath;
 
             Console.WriteLine("Choose a operation:");
-            Console.WriteLine(" 1.TSX to PETROBOTS");
-            Console.WriteLine(" 2.PETROBOTS to TSX");
+            Console.WriteLine(" 1.TMX to PETROBOTS");
+            Console.WriteLine(" 2.PETROBOTS to TMX");
 
             userOption = Convert.ToByte(Console.ReadLine());
 
