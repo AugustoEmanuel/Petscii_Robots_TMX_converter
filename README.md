@@ -1,4 +1,4 @@
-# Petscii_Robots_TSX_converter
+# Petscii_Robots_TMX_converter
 
 Here's a very simple tool that I made to create both Map 14 (Rocket Center) and Map 16 (Power Plant) for the Sega Genesis version of Petscii Robots. It let you convert a TMX file from Tiled Map Editor into a Petscii Robots compatible map file. 
 
